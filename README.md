@@ -1,4 +1,3 @@
-# CMPLXSY-Prey-Predator-Ecosystem
 # Prey-Predator Ecosystem 
 
 This agent-based model is a simple example of a shark-fish-algae predation environment wherein sharks eat fish, and fishes eat algae. 
@@ -18,7 +17,7 @@ Sharks and fish randomly wander around the ocean.
 - Algae regenerates after a certain amount of time specified in the algae-regrowth-time setting.
 
 
-### Group 1
+### [CMPLXSY - S11]Group 1
 - Alba, Axel T.
 - Cansana, Jose Lorenzo M.
 - Pelagio, Trisha Gail P.
